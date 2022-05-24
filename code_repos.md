@@ -1,7 +1,7 @@
 ---
 title: Data Analysis tutorials
 has_children: true
-nav_order: 1
+nav_order: 3
 ---
 
 # Data Analysis tutorials
