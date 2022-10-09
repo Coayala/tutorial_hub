@@ -6,5 +6,4 @@ nav_order: 2
 
 # Laboratory protocols
 
-- link1
-- link2
+- [MetaboDirect tutorial](https://hackmd.io/0rnQHQDyT4yQy_PFnxZhTQ?view)
