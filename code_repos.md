@@ -6,5 +6,4 @@ nav_order: 3
 
 # Data Analysis tutorials
 
-- link1
-- link2
+- [MetaboDirect tutorial](https://hackmd.io/0rnQHQDyT4yQy_PFnxZhTQ?view)
